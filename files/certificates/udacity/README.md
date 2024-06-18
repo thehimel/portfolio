@@ -1,5 +1,10 @@
 # Udacity
 
+## Generative AI Fundamentals with Google Cloud
+
+* [certificate](gen-ai-fundamentals.pdf)
+* [url](https://www.udacity.com/certificate/e/de66b7b0-2c2b-11ef-a905-fb6affe99ced)
+
 ## Introduction to Generative AI with Google Cloud
 
 * [Certificate](intro-to-gen-ai.pdf)
