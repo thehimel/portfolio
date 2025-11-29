@@ -279,3 +279,51 @@
 * Expiry date: `None`
 * Credential URL: [Click here](https://github.com/thehimel/portfolio/blob/master/files/certificates/misc/ipc-covid19-who.pdf)
 * Certificate: [ipc-covid19-who.pdf](misc/ipc-covid19-who.pdf)
+
+## HTML and CSS
+
+* Name: `HTML and CSS`
+* Issuing organization: `Udemy`
+* Issue date: `AUG 2019`
+* Expiry date: `None`
+* Credential ID: `UC-JARG3HT4`
+* Credential URL: [Click here](https://www.udemy.com/certificate/UC-JARG3HT4/)
+* Skills: `HTML, CSS`
+
+## Practical Understanding of PHP and MySQL
+
+* Name: `Practical Understanding of PHP and MySQL`
+* Issuing organization: `Udemy`
+* Issue date: `APR 2018`
+* Expiry date: `None`
+* Credential ID: `UC-MD4TKL2B`
+* Credential URL: [Click here](https://www.udemy.com/certificate/UC-MD4TKL2B/)
+* Skills: `PHP, MySQL`
+
+## Learn AJAX with PHP from Scratch using jQuery
+
+* Name: `Learn AJAX with PHP from Scratch using jQuery`
+* Issuing organization: `Udemy`
+* Issue date: `MAR 2018`
+* Expiry date: `None`
+* Credential ID: `UC-DPO8UYNR`
+* Credential URL: [Click here](https://www.udemy.com/certificate/UC-DPO8UYNR/)
+* Skills: `PHP, AJAX, jQuery, REST APIs`
+
+## Bootstrap 4: Create a landing page
+
+* Name: `Bootstrap 4: Create a landing page`
+* Issuing organization: `Udemy`
+* Issue date: `JAN 2018`
+* Expiry date: `None`
+* Credential ID: `UC-W8Q1GFTN`
+* Credential URL: [Click here](https://www.udemy.com/certificate/UC-W8Q1GFTN/)
+* Skills: `Bootstrap, HTML, CSS, Front-End Development`
+* Certificate: ``
+
+## International English Language Testing System (IELTS) - Band Score 7.0
+
+* Name: `International English Language Testing System (IELTS) - Band Score 7.0`
+* Issuing organization: `Cambridge Assessment English`
+* Issue date: `NOV 2018`
+* Expiry date: `NOV 2020`
