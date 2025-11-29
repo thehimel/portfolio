@@ -110,6 +110,127 @@
 * Skills: `Large Language Models (LLM)`
 * Certificate: [intro-to-llms.pdf](udacity/intro-to-llms.pdf)
 
+## Introduction to Kubernetes
+
+* Name: `Introduction to Kubernetes`
+* Issuing organization: `DataCamp`
+* Issue date: `JUN 2025`
+* Expiry date: `None`
+* Credential ID: `efa200f9aeed79991592912d8c1c365f7df21e6d`
+* Credential URL: [Click here](https://www.datacamp.com/completed/statement-of-accomplishment/course/efa200f9aeed79991592912d8c1c365f7df21e6d)
+* Skills: `Kubernetes`
+* Certificate: [intro-to-k8s.pdf](datacamp/intro-to-k8s.pdf)
+
+## Intermediate Docker
+
+* Name: `Intermediate Docker`
+* Issuing organization: `DataCamp`
+* Issue date: `JUN 2025`
+* Expiry date: `None`
+* Credential ID: `7d791014222cf553c772665d90936cd107891706`
+* Credential URL: [Click here](https://www.datacamp.com/completed/statement-of-accomplishment/course/7d791014222cf553c772665d90936cd107891706)
+* Skills: `Docker`
+* Certificate: [Intermediate-docker.pdf](datacamp/intermediate-docker.pdf)
+
+## Introduction to Docker
+
+* Name: `Introduction to Docker`
+* Issuing organization: `DataCamp`
+* Issue date: `JUN 2025`
+* Expiry date: `None`
+* Credential ID: `cbabf444ba167ecfce19141002f9c0a4cb6be9da`
+* Credential URL: [Click here](https://www.datacamp.com/completed/statement-of-accomplishment/course/cbabf444ba167ecfce19141002f9c0a4cb6be9da)
+* Skills: `Docker`
+* Certificate: [intro-to-docker.pdf](datacamp/intro-to-docker.pdf)
+
+## Containerization and Virtualization Concepts
+
+* Name: `Containerization and Virtualization Concepts`
+* Issuing organization: `DataCamp`
+* Issue date: `JUN 2025`
+* Expiry date: `None`
+* Credential ID: `263a805a5d0f07b7e29936d1e1bf0b37d5dd20ee`
+* Credential URL: [Click here](https://www.datacamp.com/completed/statement-of-accomplishment/course/263a805a5d0f07b7e29936d1e1bf0b37d5dd20ee)
+* Skills: `Containerization, Virtualization`
+* Certificate: [containerization-and-virtualization .pdf](datacamp/containerization-and-virtualization%20.pdf)
+
+## Introduction to FastAPI
+
+* Name: `Introduction to FastAPI`
+* Issuing organization: `DataCamp`
+* Issue date: `JUN 2025`
+* Expiry date: `None`
+* Credential ID: `8e70b6ed2283281e63b920ed696eeed2fcb446a0`
+* Credential URL: [Click here](https://www.datacamp.com/completed/statement-of-accomplishment/course/8e70b6ed2283281e63b920ed696eeed2fcb446a0)
+* Skills: `Python, FastAPI, REST APIs`
+* Certificate: [intro-to-fastapi.pdf](datacamp/intro-to-fastapi.pdf)
+
+## Introduction to APIs in Python
+
+* Name: `Introduction to APIs in Python`
+* Issuing organization: `DataCamp`
+* Issue date: `JUN 2025`
+* Expiry date: `None`
+* Credential ID: `6e038dc7170f74999aa82ffe617a04deaf73fea8`
+* Credential URL: [Click here](https://www.datacamp.com/completed/statement-of-accomplishment/course/6e038dc7170f74999aa82ffe617a04deaf73fea8)
+* Skills: `Python, REST APIs`
+* Certificate: [intro-to-apis-in-python.pdf](datacamp/intro-to-apis-in-python.pdf)
+
+## Intermediate Python for Developers
+
+* Name: `Intermediate Python for Developers`
+* Issuing organization: `DataCamp`
+* Issue date: `JUN 2025`
+* Expiry date: `None`
+* Credential ID: `11e6d58dde600f6d8967d484f94be50317610346`
+* Credential URL: [Click here](https://www.datacamp.com/completed/statement-of-accomplishment/course/11e6d58dde600f6d8967d484f94be50317610346)
+* Skills: `Python`
+* Certificate: [intermediate-python.pdf](datacamp/intermediate-python.pdf)
+
+## Introduction to Python for Developers
+
+* Name: `Introduction to Python for Developers`
+* Issuing organization: `DataCamp`
+* Issue date: `JUN 2025`
+* Expiry date: `None`
+* Credential ID: `172f3c827c519873f18992e508e50a1fb8f1f866`
+* Credential URL: [Click here](https://www.datacamp.com/completed/statement-of-accomplishment/course/172f3c827c519873f18992e508e50a1fb8f1f866)
+* Skills: `Python`
+* Certificate: [intro-to-python.pdf](datacamp/intro-to-python.pdf)
+
+## Intermediate SQL
+
+* Name: `Intermediate SQL`
+* Issuing organization: `DataCamp`
+* Issue date: `MAR 2025`
+* Expiry date: `None`
+* Credential ID: `facdba2a695962bb2baaecc4040e90a9103ba538`
+* Credential URL: [Click here](https://www.datacamp.com/completed/statement-of-accomplishment/course/facdba2a695962bb2baaecc4040e90a9103ba538)
+* Skills: `SQL`
+* Certificate: [intermediate-sql.pdf](datacamp/intermediate-sql.pdf)
+
+## Introduction to SQL
+
+* Name: `Introduction to SQL`
+* Issuing organization: `DataCamp`
+* Issue date: `MAR 2025`
+* Expiry date: `None`
+* Credential ID: `2f9e3db45c316e3d654887d48bd9922445a455cd`
+* Credential URL: [Click here](https://www.datacamp.com/completed/statement-of-accomplishment/course/2f9e3db45c316e3d654887d48bd9922445a455cd)
+* Skills: `SQL`
+* Certificate: [intro-to-sql.pdf](datacamp/intro-to-sql.pdf)
+
+## Understanding Data Engineering
+
+* Name: `Understanding Data Engineering`
+* Issuing organization: `DataCamp`
+* Issue date: `MAR 2025`
+* Expiry date: `None`
+* Credential ID: `b3a9ee922a78486cd7bb236a8bfcb1034f13a428`
+* Credential URL: [Click here](https://www.datacamp.com/completed/statement-of-accomplishment/course/b3a9ee922a78486cd7bb236a8bfcb1034f13a428)
+* Skills: `Data Engineering`
+* Certificate: [understanding-data-engineering.pdf](datacamp/understanding-data-engineering.pdf)
+
 ## Data Engineering Foundations
 
 * Name: `Data Engineering Foundations`
@@ -319,7 +440,6 @@
 * Credential ID: `UC-W8Q1GFTN`
 * Credential URL: [Click here](https://www.udemy.com/certificate/UC-W8Q1GFTN/)
 * Skills: `Bootstrap, HTML, CSS, Front-End Development`
-* Certificate: ``
 
 ## International English Language Testing System (IELTS) - Band Score 7.0
 
