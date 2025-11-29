@@ -186,3 +186,36 @@
 * Credential URL: [Click here](https://github.com/thehimel/portfolio/blob/master/files/certificates/linkedin/learning-python-with-pycharm.pdf)
 * Skills: `Python (Programming Language)`
 * Certificate: [learning-python-with-pycharm.pdf](linkedin/learning-python-with-pycharm.pdf)
+
+## C# & .NET: Programming
+
+* Name: `C# & .NET: Programming`
+* Issuing organization: `LinkedIn`
+* Issue date: `MAY 2021`
+* Expiry date: `None`
+* Credential ID: `ASMCagLga2CBzwUwIj4jTfM_oxek`
+* Credential URL: [Click here](https://github.com/thehimel/portfolio/blob/master/files/certificates/linkedin/c-sharp-dot-net-programming.pdf)
+* Skills: `C#, .NET`
+* Certificate: [c-sharp-dot-net-programming.pdf](linkedin/c-sharp-dot-net-programming.pdf)
+
+## Learning Personal Branding
+
+* Name: `Learning Personal Branding`
+* Issuing organization: `LinkedIn`
+* Issue date: `MAY 2021`
+* Expiry date: `None`
+* Credential ID: `AYQR7cnqi80dsc6FvFThFmROsyPG`
+* Credential URL: [Click here](https://github.com/thehimel/portfolio/blob/master/files/certificates/linkedin/learning-personal-branding-nasba.pdf)
+* Skills: `Personal Branding`
+* Certificate: [learning-personal-branding-nasba.pdf](linkedin/learning-personal-branding-nasba.pdf)
+
+## SQL Essential Training
+
+* Name: `SQL Essential Training`
+* Issuing organization: `LinkedIn`
+* Issue date: `MAY 2021`
+* Expiry date: `None`
+* Credential ID: `AcUJdlt3bhAjhtKeAzqGbuOY1JU_`
+* Credential URL: [Click here](https://github.com/thehimel/portfolio/blob/master/files/certificates/linkedin/sql-essential-training.pdf)
+* Skills: `SQL`
+* Certificate: [sql-essential-training.pdf](linkedin/sql-essential-training.pdf)
