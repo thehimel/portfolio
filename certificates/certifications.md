@@ -131,3 +131,58 @@
 * Credential URL: [Click here](https://www.linkedin.com/learning/certificates/a050bb5402b8c1b6bb7c18b964cbd38f575fbbfb18aa53ba5b12ecd26b2693a9)
 * Skills: `Go (Programming Language)`
 * Certificate: [learning-go.pdf](linkedin/learning-go.pdf)
+
+## Establishing Evening Routines to Optimize the Day Ahead
+
+* Name: `Establishing Evening Routines to Optimize the Day Ahead`
+* Issuing organization: `LinkedIn`
+* Issue date: `SEP 2021`
+* Expiry date: `None`
+* Credential ID: `5c3dc9deb9d5a97b670055b4570ca59c2c663ca7c4daa02ca8436e6fd094a3fe`
+* Credential URL: [Click here](https://www.linkedin.com/learning/certificates/5c3dc9deb9d5a97b670055b4570ca59c2c663ca7c4daa02ca8436e6fd094a3fe)
+* Skills: `Time Management`
+* Certificate: [evening-routines.pdf](linkedin/evening-routines.pdf)
+
+## Troubleshooting and Debugging Bash
+
+* Name: `Troubleshooting and Debugging Bash`
+* Issuing organization: `LinkedIn`
+* Issue date: `SEP 2021`
+* Expiry date: `None`
+* Credential ID: `AQd92z75cudfl2ClPyN7-li1xofV`
+* Credential URL: [Click here](https://github.com/thehimel/portfolio/blob/master/files/certificates/linkedin/debugging-bash.pdf)
+* Skills: `Bash`
+* Certificate: [debugging-bash.pdf](linkedin/debugging-bash.pdf)
+
+## Learning Docker
+
+* Name: `Learning Docker`
+* Issuing organization: `LinkedIn`
+* Issue date: `AUG 2021`
+* Expiry date: `None`
+* Credential ID: `AX0EfIXbTk-dpMl4fbB6hdFLGLVp`
+* Credential URL: [Click here](https://github.com/thehimel/portfolio/blob/master/files/certificates/linkedin/learning-docker.pdf)
+* Skills: `Docker, Bash`
+* Certificate: [learning-docker.pdf](linkedin/learning-docker.pdf)
+
+## Learning REST APIs
+
+* Name: `Learning REST APIs`
+* Issuing organization: `LinkedIn`
+* Issue date: `AUG 2021`
+* Expiry date: `None`
+* Credential ID: `AevoocjB2NRWNkJXNtrc4zeolgwo`
+* Credential URL: [Click here](https://github.com/thehimel/portfolio/blob/master/files/certificates/linkedin/learning-rest-apis.pdf)
+* Skills: `REST APIs`
+* Certificate: [learning-rest-apis.pdf](linkedin/learning-rest-apis.pdf)
+
+## Learning Python with PyCharm
+
+* Name: `Learning Python with PyCharm`
+* Issuing organization: `LinkedIn`
+* Issue date: `JUN 2021`
+* Expiry date: `None`
+* Credential ID: `ATxdiJP7ToPmx5KjdCj0V_xZRrsX`
+* Credential URL: [Click here](https://github.com/thehimel/portfolio/blob/master/files/certificates/linkedin/learning-python-with-pycharm.pdf)
+* Skills: `Python (Programming Language)`
+* Certificate: [learning-python-with-pycharm.pdf](linkedin/learning-python-with-pycharm.pdf)
