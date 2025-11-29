@@ -219,3 +219,34 @@
 * Credential URL: [Click here](https://github.com/thehimel/portfolio/blob/master/files/certificates/linkedin/sql-essential-training.pdf)
 * Skills: `SQL`
 * Certificate: [sql-essential-training.pdf](linkedin/sql-essential-training.pdf)
+
+## Crash Course on Python by Google
+
+* Name: `Crash Course on Python by Google`
+* Issuing organization: `Coursera`
+* Issue date: `APR 2021`
+* Expiry date: `None`
+* Credential ID: `3BHJPXR4T75J`
+* Credential URL: [Click here](https://www.coursera.org/verify/3BHJPXR4T75J)
+* Skills: `Python (Programming Language)`
+
+## Managing Stress for Positive Change
+
+* Name: `Managing Stress for Positive Change`
+* Issuing organization: `LinkedIn`
+* Issue date: `APR 2021`
+* Expiry date: `None`
+* Credential ID: `AROvmtvDAtO6Z6NHM7OGhR2X5MFl`
+* Credential URL: [Click here](https://github.com/thehimel/portfolio/blob/master/files/certificates/linkedin/managing-stress-for-positive-change-nasba.pdf)
+* Certificate: [managing-stress-for-positive-change-nasba.pdf](linkedin/managing-stress-for-positive-change-nasba.pdf)
+
+## Unit Testing in Python
+
+* Name: `Unit Testing in Python`
+* Issuing organization: `LinkedIn`
+* Issue date: `APR 2021`
+* Expiry date: `None`
+* Credential ID: `AW6hqM8M81ZYOqPNfgE1oIggmp_E`
+* Credential URL: [Click here](https://github.com/thehimel/portfolio/blob/master/files/certificates/linkedin/unit-testing-in-pytest.pdf)
+* Skills: `Python (Programming Language), Unit Testing, Bash, REST APIs`
+* Certificate: [unit-testing-in-pytest.pdf](linkedin/unit-testing-in-pytest.pdf)
