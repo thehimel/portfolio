@@ -109,3 +109,14 @@
 * Credential URL: [Click here](https://www.udacity.com/certificate/e/7bd19fe4-2ab8-11ef-a447-e7faa639672e)
 * Skills: `Large Language Models (LLM)`
 * Certificate: [intro-to-llms.pdf](udacity/intro-to-llms.pdf)
+
+## Data Engineering Foundations
+
+* Name: `Data Engineering Foundations`
+* Issuing organization: `LinkedIn`
+* Issue date: `NOV 2023`
+* Expiry date: `None`
+* Credential ID: `5a406ccd9075ed07f2b200489ff923f17c2ad9496126fdd646b7ed306466a9fd`
+* Credential URL: [Click here](https://www.linkedin.com/learning/certificates/5a406ccd9075ed07f2b200489ff923f17c2ad9496126fdd646b7ed306466a9fd)
+* Skills: `Data Engineering, Extract, Transform, Load (ETL)`
+* Certificate: [data-engineering-foundations.pdf](linkedin/data-engineering-foundations.pdf)
