@@ -120,3 +120,14 @@
 * Credential URL: [Click here](https://www.linkedin.com/learning/certificates/5a406ccd9075ed07f2b200489ff923f17c2ad9496126fdd646b7ed306466a9fd)
 * Skills: `Data Engineering, Extract, Transform, Load (ETL)`
 * Certificate: [data-engineering-foundations.pdf](linkedin/data-engineering-foundations.pdf)
+
+## Learning Go
+
+* Name: `Learning Go`
+* Issuing organization: `LinkedIn`
+* Issue date: `JUL 2023`
+* Expiry date: `None`
+* Credential ID: `a050bb5402b8c1b6bb7c18b964cbd38f575fbbfb18aa53ba5b12ecd26b2693a9`
+* Credential URL: [Click here](https://www.linkedin.com/learning/certificates/a050bb5402b8c1b6bb7c18b964cbd38f575fbbfb18aa53ba5b12ecd26b2693a9)
+* Skills: `Go (Programming Language)`
+* Certificate: [learning-go.pdf](linkedin/learning-go.pdf)
