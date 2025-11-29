@@ -76,3 +76,36 @@
 * Credential URL: [Click here](https://www.credly.com/badges/acb4e29d-8982-428c-8b52-dafc43922a27/public_url)
 * Skills: `Python (Programming Language)`
 * Certificate: [python-essentials-2.pdf](cisco/python-essentials-2.pdf)
+
+## Generative AI Fundamentals with Google Cloud
+
+* Name: `Generative AI Fundamentals with Google Cloud`
+* Issuing organization: `Udacity`
+* Issue date: `JUN 2024`
+* Expiry date: `None`
+* Credential ID: `de66b7b0-2c2b-11ef-a905-fb6affe99ced`
+* Credential URL: [Click here](https://www.udacity.com/certificate/e/de66b7b0-2c2b-11ef-a905-fb6affe99ced)
+* Skills: `Generative AI, Large Language Models (LLM)`
+* Certificate: [gen-ai-fundamentals.pdf](udacity/gen-ai-fundamentals.pdf)
+
+## Introduction to Generative AI with Google Cloud
+
+* Name: `Introduction to Generative AI with Google Cloud`
+* Issuing organization: `Udacity`
+* Issue date: `JUN 2024`
+* Expiry date: `None`
+* Credential ID: `bf20fd06-2c2c-11ef-b321-b311e8080ff9`
+* Credential URL: [Click here](https://www.udacity.com/certificate/e/bf20fd06-2c2c-11ef-b321-b311e8080ff9)
+* Skills: `Generative AI`
+* Certificate: [intro-to-gen-ai.pdf](udacity/intro-to-gen-ai.pdf)
+
+## Introduction to Large Language Models with Google Cloud
+
+* Name: `Introduction to Large Language Models with Google Cloud`
+* Issuing organization: `Udacity`
+* Issue date: `JUN 2024`
+* Expiry date: `None`
+* Credential ID: `7bd19fe4-2ab8-11ef-a447-e7faa639672e`
+* Credential URL: [Click here](https://www.udacity.com/certificate/e/7bd19fe4-2ab8-11ef-a447-e7faa639672e)
+* Skills: `Large Language Models (LLM)`
+* Certificate: [intro-to-llms.pdf](udacity/intro-to-llms.pdf)
