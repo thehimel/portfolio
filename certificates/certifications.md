@@ -250,3 +250,32 @@
 * Credential URL: [Click here](https://github.com/thehimel/portfolio/blob/master/files/certificates/linkedin/unit-testing-in-pytest.pdf)
 * Skills: `Python (Programming Language), Unit Testing, Bash, REST APIs`
 * Certificate: [unit-testing-in-pytest.pdf](linkedin/unit-testing-in-pytest.pdf)
+
+## Data Structures and Algorithms: Deep Dive Using Java
+
+* Name: `Data Structures and Algorithms: Deep Dive Using Java`
+* Issuing organization: `Udemy`
+* Issue date: `FEB 2021`
+* Expiry date: `None`
+* Credential ID: `UC-62ccfc07-16bc-4a25-ba15-3b9a197964b8`
+* Credential URL: [Click here](https://www.udemy.com/certificate/UC-62ccfc07-16bc-4a25-ba15-3b9a197964b8/)
+* Skills: `Java, Data Structures, Algorithms`
+
+## Algorithmic Toolbox by UCSanDiego
+
+* Name: `Algorithmic Toolbox by UCSanDiego`
+* Issuing organization: `Coursera`
+* Issue date: `JUN 2020`
+* Expiry date: `None`
+* Credential ID: `SRHLL8JLNX2X`
+* Credential URL: [Click here](https://coursera.org/share/188ce41195b956ce7d984f00ed7b57bd)
+* Skills: `Python (Programming Language)`
+
+## Infection Prevention and Control (IPC) for Novel Coronavirus (COVID-19)
+
+* Name: `Infection Prevention and Control (IPC) for Novel Coronavirus (COVID-19)`
+* Issuing organization: `World Health Organization`
+* Issue date: `APR 2020`
+* Expiry date: `None`
+* Credential URL: [Click here](https://github.com/thehimel/portfolio/blob/master/files/certificates/misc/ipc-covid19-who.pdf)
+* Certificate: [ipc-covid19-who.pdf](misc/ipc-covid19-who.pdf)
