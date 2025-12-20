@@ -1,5 +1,16 @@
 # Certifications
 
+## Astronomer Certification for Apache Airflow 3 Fundamentals
+
+* Name: `Astronomer Certification for Apache Airflow 3 Fundamentals`
+* Issuing organization: `Astronomer`
+* Issue date: `19 DEC 2025`
+* Expiry date: `None`
+* Credential ID: `59c45eb0-9ce8-4aa6-b72a-2b27e9dbfa70`
+* Credential URL: [Click here](https://www.credly.com/badges/59c45eb0-9ce8-4aa6-b72a-2b27e9dbfa70/public_url)
+* Skills: `Apache Airflow, Data Engineering`
+* Certificate: [airflow-3-fundamentals.pdf](airflow/airflow-3-fundamentals.pdf)
+
 ## Certified Software Engineer
 
 * Name: `Certified Software Engineer`
