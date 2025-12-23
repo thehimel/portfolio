@@ -11,9 +11,9 @@
 * Skills: `Apache Airflow, Data Engineering`
 * Certificate: [airflow-3-fundamentals.pdf](airflow/airflow-3-fundamentals.pdf)
 
-## Certified Software Engineer
+## Software Engineer
 
-* Name: `Certified Software Engineer`
+* Name: `Software Engineer`
 * Issuing organization: `HackerRank`
 * Issue date: `11 NOV 2025`
 * Expiry date: `None`
@@ -32,6 +32,39 @@
 * Credential URL: [Click here](https://www.hackerrank.com/certificates/a752d146a1aa)
 * Skills: `Node.js`
 * Certificate: [nodejs-intermediate.pdf](hackerrank/nodejs-intermediate.pdf)
+
+## REST API (Intermediate)
+
+* Name: `REST API (Intermediate)`
+* Issuing organization: `HackerRank`
+* Issue date: `08 DEC 2025`
+* Expiry date: `None`
+* Credential ID: `30477FE5FDD2`
+* Credential URL: [Click here](https://www.hackerrank.com/certificates/30477fe5fdd2)
+* Skills: `REST APIs`
+* Certificate: [rest-api-intermediate.pdf](hackerrank/rest-api-intermediate.pdf)
+
+## JavaScript (Intermediate)
+
+* Name: `JavaScript (Intermediate)`
+* Issuing organization: `HackerRank`
+* Issue date: `11 DEC 2025`
+* Expiry date: `None`
+* Credential ID: `DDDF2C1FC3FF`
+* Credential URL: [Click here](https://www.hackerrank.com/certificates/dddf2c1fc3ff)
+* Skills: `JavaScript`
+* Certificate: [javascript-intermediate.pdf](hackerrank/javascript-intermediate.pdf)
+
+## SQL (Advanced)
+
+* Name: `SQL (Advanced)`
+* Issuing organization: `HackerRank`
+* Issue date: `11 DEC 2025`
+* Expiry date: `None`
+* Credential ID: `D9F2CBDA6D3B`
+* Credential URL: [Click here](https://www.hackerrank.com/certificates/d9f2cbda6d3b)
+* Skills: `SQL`
+* Certificate: [sql-advanced.pdf](hackerrank/sql-advanced.pdf)
 
 ## The Vue.js Master Class 2024 Edition
 
