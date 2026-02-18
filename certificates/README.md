@@ -1,5 +1,16 @@
 # Certifications
 
+## NestJS Zero to Hero - Modern TypeScript Back-end Development
+
+* Name: `NestJS Zero to Hero - Modern TypeScript Back-end Development`
+* Issuing organization: `Udemy`
+* Issue date: `18 FEB 2026`
+* Expiry date: `None`
+* Credential ID: `UC-d674a099-7448-4ceb-aa3d-b4a59ac05e51`
+* Credential URL: [Click here](https://www.udemy.com/certificate/UC-d674a099-7448-4ceb-aa3d-b4a59ac05e51)
+* Skills: `NestJS, TypeScript, Backend Development`
+* Certificate: [nextjs.pdf](udemy/nextjs.pdf)
+
 ## Astronomer Certification for Apache Airflow 3 Fundamentals
 
 * Name: `Astronomer Certification for Apache Airflow 3 Fundamentals`
